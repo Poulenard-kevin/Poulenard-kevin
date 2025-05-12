@@ -9,7 +9,7 @@ Ici, on apprend, on expérimente, et on essaie de ne pas trop casser de choses.
 
 🙋‍♂️ Qui suis-je ?
 
-Je suis Poulenard Kévin, actuellement en formation “Graduate Développeur Web 2023-2029” (oui, c’est un long apprentissage), promo Janvier-Février 2026 chez STUDI.
+Je suis Poulenard Kévin, actuellement en formation “Graduate Développeur Angular”, promo Janvier-Février 2026 chez STUDI.
 Mon objectif ? Devenir un développeur web compétent et utile.
 
 🎯 Mon projet après la formation
